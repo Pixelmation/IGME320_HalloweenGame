@@ -11,9 +11,7 @@
 
 #### Keywords
 
--   Adjectives
--   Max 10
--   Capture key aspects of the idea
+-  Spooky
 
 #### Platforms(s)
 
