@@ -14,6 +14,8 @@
 -  Spooky
 -  Fast-paced
 -  Strategic
+-  Dark
+-  Atmospheric
 
 #### Platforms(s)
 
@@ -22,7 +24,7 @@
 
 #### Target Player Exerience
 
-What kind of experience do you want the player to have with your game? Are they going to have to outsmart their enemies, explore a new world. Do not list the game’s mechanics or features and do not use the word “UNIQUE”.
+A Fast-paced runner with danger lurking should the player slow down. A scary platformer with horror elements
 
 #### Core Diagram
 
