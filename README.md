@@ -12,10 +12,13 @@
 #### Keywords
 
 -  Spooky
+-  Fast-paced
+-  Strategic
 
 #### Platforms(s)
 
--   List each
+-   Windows
+-   Android?
 
 #### Target Player Exerience
 
