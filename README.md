@@ -1,4 +1,4 @@
-# _(Game Name)_
+# Nightmare Run
 
 ### _starpotato_
 
@@ -24,32 +24,37 @@
 
 #### Target Player Exerience
 
-A Fast-paced runner with danger lurking should the player slow down. A scary platformer with horror elements
+-   An exciting, fast-paced experience requiring quick-thinking strategy and fast reactions
+
 
 #### Core Diagram
 
 1.  Core Mechaninc
 
-    -   The core mechanic in a game will usually be the purposeful interaction that occurs the most frequently. In a platforming game, this is usually jumping. In a shooter, it is usually shooting. In a racing game, it will be driving. Another way to determine the core mechanic is, if without it, you wouldn’t be able to play the game at all.
+    -   Running and jumping quickly across the screen while reacting to platforms appearing
 
 2.  Secondary Mechancis
 
-    -   The secondary mechanics are the interactions that happen less frequently. They could even be layered out from more frequent to least frequent.
-    -   List each
+    -   Avoiding traps and enemies by ducking, using weapons, and power-ups
 
 
 3.  Progression
 
-    -   Progression systems form the mechanical envelope of the game, being the source of change within the game system at a holistic level.
-
+    -   The platforms will become further apart and harder to manuver as the player survives for longer
+    -   Potential level system where players can choose difficulty after passing a level
+    
+    
 4.  Narrative
 
     -   The Narrative layer is the outer most layer that puts all the inner layers within it into context.
 
 #### Minimal Viable Interaction
 
-What will be in your MVI? What will the player be able to do? Why only this? We may have a back and forth on this because this will be what I use to measure if you delivered an MVI.
+The MVI will include a basic infinite sidescroller with running and jumping onto platforms and over traps
 
 #### References
 
-Pease add a short description of how this is relevant to your game (mechanic, art, theme, etc.). There is no limit to how many references you can have.
+Celeste boss 'fight'- taking elements of an enemy chasing you and quick movements
+
+Little Big Planet 2 Final boss fight- balanced and random platforms
+
